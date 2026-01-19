@@ -86,7 +86,7 @@ The `.pbix` file provides a clean, interactive view of:
 
 ## Contact
 
-For queries or collaboration: **Nabadiganta Acharjee**  
-Mail: acharjeenabadiganta3456@gmail.com  
+For queries or collaboration: **Debabrata Debnath**  
+Mail: debabaratadebnath459@gmail.com  
 
 ---
